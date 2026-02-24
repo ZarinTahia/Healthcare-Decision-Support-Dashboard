@@ -1,5 +1,5 @@
 # Patient Visiting Record Dashboard (Power BI)
-##Project Overview
+## Project Overview
 
 The Dashboard is an interactive Power BI report designed to analyze clinic's  performance metrics on a monthly basis.
 
