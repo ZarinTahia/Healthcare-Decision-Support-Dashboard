@@ -73,7 +73,7 @@ The dashboard uses:
 - Cleaned and structured dataset for reporting
 
 ## Dashboard Preview
-
+![alt text](Capture-1.PNG)
 
 
 ## How to Use
